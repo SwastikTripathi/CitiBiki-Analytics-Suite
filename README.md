@@ -1,5 +1,5 @@
 
-# Citi Bike and Weather Data Analysis in Snowflake
+# Citi Bike Data Analysis in Snowflake
 
 ## Author
 
@@ -415,3 +415,4 @@ This project demonstrates a robust data engineering workflow in Snowflake, from 
 While the weather data (2016-2019) currently doesn’t overlap with trip data (2020-2024), the framework is in place to analyze weather impacts once aligned data is sourced. This work, executed via a [Snowflake Worksheet](https://app.snowflake.com/ftsfpjt/wo54189/w2qZlNfBGn5g#query), reflects technical proficiency and problem-solving skills, ideal for a data engineering or analytics role.
 
 ---
+
